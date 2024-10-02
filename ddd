@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Salman Graduation</title>
+<style>
+		body {
+			background-color: #FFFFF0;
+		}
+	</style>
+<img src="images/hat.png" width="400" style="float:right;" height="240">
+<body style="font-family: Monotype Corsiva; font-size:50">
+<h2 style="color:#8B0000">Congrats Salman</h2>
+
+<audio controls src="Audio/file_exampl.mp3">
+</body>
+</head>
+</html>
